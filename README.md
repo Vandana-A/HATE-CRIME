@@ -1,0 +1,1 @@
+In this project I have tried to cover all the types of visualizations that can be done on a dataset including scalar,vector visualizations for hate crime dataset.
